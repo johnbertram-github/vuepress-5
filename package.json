@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-5",
+  "version": "1.0.0",
+  "description": "VuePress Publishing Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbertram-github/vuepress-5.git"
+  },
+  "author": "John Bertram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnbertram-github/vuepress-5/issues"
+  },
+  "homepage": "https://github.com/johnbertram-github/vuepress-5#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.61"
+  }
+}
