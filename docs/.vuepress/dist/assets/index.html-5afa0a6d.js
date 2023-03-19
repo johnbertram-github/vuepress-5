@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"This is a readme page","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1679251114000,"contributors":[{"name":"John Bertram","email":"johnbertram.uk@hotmail.com","commits":1}]},"filePathRelative":"README.md"}');export{a as data};
