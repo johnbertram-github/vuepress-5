@@ -1,7 +1,7 @@
 import { defineUserConfig, defaultTheme } from 'vuepress'
 
 export default defineUserConfig({
-  base: '/vuepress-5/',
+  // base: '/vuepress-5/',
   lang: 'en-GB',
   title: 'Hello VuePress',
   description: 'Just playing around',
