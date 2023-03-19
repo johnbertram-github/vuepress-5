@@ -5,7 +5,7 @@ export default defineUserConfig({
   lang: 'en-GB',
   title: 'Hello VuePress',
   description: 'Just playing around',
-  // base: '/vuepress-5/',
+  base: '/vuepress-5/',
   theme: defaultTheme({
     lastUpdated: true,
     contributors: true,
